@@ -1,9 +1,12 @@
-#primeracolumna{
+.primeracolumna{
     border: 2px red solid;
 }
-#segundacolumna{
+.segundacolumna{
     border: 2px blue solid;
 }
-#terceracolumna{
+.terceracolumna{
     border: 2px green solid;
+}
+.cuartacolumna{
+    border: 2px pink solid;
 }
